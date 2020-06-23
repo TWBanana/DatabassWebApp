@@ -1,0 +1,10 @@
+package com.twbanana.springdemo.service;
+
+import java.util.List;
+
+import com.twbanana.springdemo.entity.Customer;
+
+public interface CustomerService {
+	
+	public List<Customer> getCustomers();
+}
