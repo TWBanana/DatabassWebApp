@@ -1,6 +1,6 @@
 # Database web application
 
-### Simply application that can add, update and delete customers.
+### Simple application that can add, update and delete customers.
 
 Some techniques used on this project:
 
